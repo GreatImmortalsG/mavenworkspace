@@ -10,6 +10,7 @@ import java.util.Enumeration;
  * createTime:2018-11-07-15:57
  */
 public class PageUtil {
+    //QAQ
     // 属性 分页的要素
     private int pageNo;// 第几页
     private int pageSize;// 每页显示数量
